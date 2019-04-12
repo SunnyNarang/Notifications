@@ -1,0 +1,13 @@
+{
+  "data": {
+ "title": "Hey",
+ "content" : "Check Out This Awesome Game!",
+ "imageUrl": "http://h5.4j.com/thumb/Ninja-Run.jpg", 
+ "gameUrl": "https://h5.4j.com/Ninja-Run/index.php?pubid=noad"
+ },
+ "to": "/topics/all"
+}
+
+
+
+https://fcm.googleapis.com/fcm/send
